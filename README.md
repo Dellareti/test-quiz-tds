@@ -1,4 +1,4 @@
-[![tests](https://github.com/andrehora/test-quiz/actions/workflows/tests.yml/badge.svg)](https://github.com/andrehora/test-quiz/actions/workflows/tests.yml)
+[![tests](https://github.com/Dellareti/test-quiz-tds/actions/workflows/tests.yml/badge.svg)](https://github.com/Dellareti/test-quiz-tds/actions/workflows/tests.yml)
 
 # Testing Quiz
 
